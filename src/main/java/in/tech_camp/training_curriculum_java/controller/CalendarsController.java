@@ -77,6 +77,7 @@ package in.tech_camp.training_curriculum_java.controller;
       }
   
       return weekDays;
+
     }
   
   
